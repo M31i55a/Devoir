@@ -56,4 +56,6 @@ int main() {
     } else {
         std::cout << " Caractère n'est pas trouvé" << "\n";
     }
-    int main()
+    int main(){
+        cout << "Entrez une chaîne de caractères : ";
+    }
